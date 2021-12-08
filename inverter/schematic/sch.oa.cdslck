@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      youngj1
+HostName                       csimcluster.ee.unlv.edu
+ProcessIdentifier              8517
+ProcessCreationTime_UTC        1448131626
+ProcessCreationTime_Readable   Sat Nov 21 10:47:06 2015 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/youngj1/CMOSedu/Proj_lab_JMY/inverter/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sat Nov 21 10:57:55 2015 PST
